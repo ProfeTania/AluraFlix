@@ -1,1 +1,10 @@
-body
+body{
+    background-color:black; 
+    color: aliceblue;
+}
+section{
+    background: blue;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
