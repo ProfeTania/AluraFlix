@@ -16,6 +16,9 @@ img {
     height: 200px;
 }
 .categoria-pequenos-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
     
 }
 
