@@ -12,7 +12,7 @@ section{
 .chamada-texto{
     margin-right: 5%;
 }
-.categoria-videos{
+.categoria-pequenos-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;
